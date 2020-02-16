@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.fcbaa15c.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.7614de4c.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.7614de4c.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.9cf32d14.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.9cf32d14.js.map",
-    "static/js/2.572d1eae.chunk.js": "/react-gh-pages/static/js/2.572d1eae.chunk.js",
-    "static/js/2.572d1eae.chunk.js.map": "/react-gh-pages/static/js/2.572d1eae.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.e9a73d236af44552d2d6538835b9b08f.js": "/react-gh-pages/precache-manifest.e9a73d236af44552d2d6538835b9b08f.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.fcbaa15c.chunk.css.map": "/react-gh-pages/static/css/main.fcbaa15c.chunk.css.map",
-    "static/js/2.572d1eae.chunk.js.LICENSE": "/react-gh-pages/static/js/2.572d1eae.chunk.js.LICENSE",
-    "static/media/index.scss": "/react-gh-pages/static/media/cristmas_schwarzwald-min.8e92a4ef.jpg",
-    "static/media/icomoon.css": "/react-gh-pages/static/media/icomoon.a97840f2.ttf"
+    "main.css": "/todolist-frontend/static/css/main.5d679b46.chunk.css",
+    "main.js": "/todolist-frontend/static/js/main.7614de4c.chunk.js",
+    "main.js.map": "/todolist-frontend/static/js/main.7614de4c.chunk.js.map",
+    "runtime-main.js": "/todolist-frontend/static/js/runtime-main.52448ce9.js",
+    "runtime-main.js.map": "/todolist-frontend/static/js/runtime-main.52448ce9.js.map",
+    "static/js/2.572d1eae.chunk.js": "/todolist-frontend/static/js/2.572d1eae.chunk.js",
+    "static/js/2.572d1eae.chunk.js.map": "/todolist-frontend/static/js/2.572d1eae.chunk.js.map",
+    "index.html": "/todolist-frontend/index.html",
+    "precache-manifest.105b3754287a56d54d83210d0647422b.js": "/todolist-frontend/precache-manifest.105b3754287a56d54d83210d0647422b.js",
+    "service-worker.js": "/todolist-frontend/service-worker.js",
+    "static/css/main.5d679b46.chunk.css.map": "/todolist-frontend/static/css/main.5d679b46.chunk.css.map",
+    "static/js/2.572d1eae.chunk.js.LICENSE": "/todolist-frontend/static/js/2.572d1eae.chunk.js.LICENSE",
+    "static/media/index.scss": "/todolist-frontend/static/media/cristmas_schwarzwald-min.8e92a4ef.jpg",
+    "static/media/icomoon.css": "/todolist-frontend/static/media/icomoon.a97840f2.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cf32d14.js",
+    "static/js/runtime-main.52448ce9.js",
     "static/js/2.572d1eae.chunk.js",
-    "static/css/main.fcbaa15c.chunk.css",
+    "static/css/main.5d679b46.chunk.css",
     "static/js/main.7614de4c.chunk.js"
   ]
 }
