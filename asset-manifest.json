@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.fcbaa15c.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.7614de4c.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.7614de4c.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.9cf32d14.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.9cf32d14.js.map",
+    "static/js/2.572d1eae.chunk.js": "/react-gh-pages/static/js/2.572d1eae.chunk.js",
+    "static/js/2.572d1eae.chunk.js.map": "/react-gh-pages/static/js/2.572d1eae.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.e9a73d236af44552d2d6538835b9b08f.js": "/react-gh-pages/precache-manifest.e9a73d236af44552d2d6538835b9b08f.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.fcbaa15c.chunk.css.map": "/react-gh-pages/static/css/main.fcbaa15c.chunk.css.map",
+    "static/js/2.572d1eae.chunk.js.LICENSE": "/react-gh-pages/static/js/2.572d1eae.chunk.js.LICENSE",
+    "static/media/index.scss": "/react-gh-pages/static/media/cristmas_schwarzwald-min.8e92a4ef.jpg",
+    "static/media/icomoon.css": "/react-gh-pages/static/media/icomoon.a97840f2.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cf32d14.js",
+    "static/js/2.572d1eae.chunk.js",
+    "static/css/main.fcbaa15c.chunk.css",
+    "static/js/main.7614de4c.chunk.js"
+  ]
+}
